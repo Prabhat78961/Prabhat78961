@@ -50,18 +50,6 @@ const prabhat = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Prabhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=071a2e&title_color=38bdf8&icon_color=38bdf8&text_color=c8e6f5)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=071a2e&title_color=38bdf8&text_color=c8e6f5)
-
-</div>
-
----
-
 ## 📡 Connect With Me
 
 <div align="center">
